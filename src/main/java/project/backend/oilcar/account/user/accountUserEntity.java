@@ -8,7 +8,7 @@ import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
 @Entity
-@Table(name = "tb_account_user_2020")
+@Table(name = "tb_test_account_user_2020")
 public class accountUserEntity {
 
 	@Id

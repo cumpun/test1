@@ -13,7 +13,7 @@ import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
 @Entity
-@Table(name = "tb_action_oilcar_2020")
+@Table(name = "tb_test_action_oilcar_2020")
 public class ActionOilcarEntity {
 
 	@Id
